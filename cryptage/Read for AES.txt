@@ -1,1 +1,0 @@
-Cette version à plusieurs problèmes et de ce fait ne fonctionne que pour le premier round. C'est à l'utilisateur de replacer ensuite les données héxadécimales. Je travail actuellement sur une meilleure version.
